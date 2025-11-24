@@ -102,5 +102,5 @@ Open a Pull Request
 
 
 
-Submitted bY:-
+Submitted by:-
 Utkarsh Srivastava
